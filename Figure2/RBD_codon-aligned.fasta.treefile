@@ -1,0 +1,172 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=70;
+	taxlabels
+	'C_AA075371.1'
+	'C_AA075372.1'
+	'C_AA075373.1'
+	'C_AA085189.1'
+	'C_AA085190.1'
+	'C_AA085191.1'
+	'C_AA085192.1'
+	'C_AA085193.1'
+	'C_AA085194.1'
+	'DQ648790.1'
+	'EF065510.1'
+	'EF065511.1'
+	'EF065512.1'
+	'KC522090.1'
+	'KC522091.1'
+	'KC522092.1'
+	'KC522093.1'
+	'KC522094.1'
+	'KC522095.1'
+	'KC522096.1'
+	'KC522097.1'
+	'KC522098.1'
+	'KC522099.1'
+	'KC522100.1'
+	'KC522101.1'
+	'KC522102.1'
+	'KC522103.1'
+	'KC522104.1'
+	'KJ473820.1'
+	'MH002340.1'
+	'MH002341.1'
+	'MH002342.1'
+	'MN611520.1'
+	'MZ328297.1'
+	'NC_009020.1'
+	'OQ175231.1'
+	'OQ175264.1'
+	'OQ175265.1'
+	'OQ175272.1'
+	'OQ175273.1'
+	'OQ175274.1'
+	'OQ175275.1'
+	'OQ175276.1'
+	'OQ175277.1'
+	'OQ175278.1'
+	'OQ175279.1'
+	'OQ175280.1'
+	'OQ175281.1'
+	'OQ175282.1'
+	'OQ175283.1'
+	'OQ175284.1'
+	'OQ175285.1'
+	'OQ175286.1'
+	'OQ175287.1'
+	'OQ175288.1'
+	'OQ175289.1'
+	'OQ175290.1'
+	'OQ175292.1'
+	'OQ175293.1'
+	'OQ175294.1'
+	'OQ175295.1'
+	'OQ175296.1'
+	'OQ175297.1'
+	'OQ175298.1'
+	'OQ175299.1'
+	'OQ175300.1'
+	'OQ175301.1'
+	'OQ175302.1'
+	'OQ715761.1'
+	'PV174919.1'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('PV174919.1':0.0,('C_AA075371.1':1.0E-6,('C_AA075373.1':1.0E-6,(((((((((((((((('C_AA085193.1':0.013936,'C_AA085194.1':0.006821)[&label=67]:0.004253,('C_AA085192.1':1.0E-6,'C_AA085191.1':1.0E-6)[&label=99]:0.110407)[&label=93]:0.006166,('C_AA085190.1':1.0E-6,'C_AA085189.1':1.0E-6)[&label=61]:2.0E-6)[&label=100]:2.104317,((((('OQ175264.1':2.0E-6,'OQ175265.1':0.003141)[&label=100]:0.011157,((('OQ175272.1':0.0,'OQ175297.1':0.0):0.0,'OQ175298.1':0.0):3.0E-6,'OQ175273.1':1.0E-6)[&label=57]:3.0E-6)[&label=100]:0.014903,'OQ175295.1':0.029493)[&label=93]:0.002993,'OQ175294.1':0.021049)[&label=100]:0.101046,('OQ175275.1':0.020394,('KC522091.1':0.023174,'KC522097.1':0.02432)[&label=100]:0.044462)[&label=99]:0.069976)[&label=98]:0.274466)[&label=92]:0.175247,((('OQ175277.1':0.026323,'OQ175279.1':0.025299)[&label=96]:0.006309,('OQ175278.1':0.097819,('OQ175290.1':0.034055,('OQ175300.1':0.051299,'MZ328297.1':0.04214)[&label=98]:0.081962)[&label=42]:0.011284)[&label=46]:0.020803)[&label=25]:3.0E-6,'OQ175296.1':0.009922)[&label=97]:0.098976)[&label=97]:0.061805,'OQ175286.1':0.01953)[&label=80]:0.011697,((('OQ175280.1':0.029419,'OQ175285.1':0.030769)[&label=98]:0.019339,'OQ175281.1':0.03557)[&label=99]:0.034453,'OQ175282.1':0.058975)[&label=97]:0.018576)[&label=82]:0.027735,'OQ175283.1':3.0E-6)[&label=100]:0.058478,'OQ175288.1':0.013761)[&label=77]:0.036825,('OQ175301.1':0.051573,'DQ648790.1':0.03805)[&label=91]:0.009198)[&label=74]:0.013408,(((((((('NC_009020.1':0.003319,'KC522090.1':0.00157)[&label=100]:0.027115,'KC522095.1':0.029584)[&label=57]:0.004687,('KC522093.1':0.022171,'MH002342.1':0.033604)[&label=97]:0.009325)[&label=53]:0.002169,'MH002341.1':0.041754)[&label=25]:0.002109,('KJ473820.1':0.027622,(((('OQ175276.1':3.0E-6,('OQ175293.1':0.009726,'OQ175299.1':0.03524)[&label=93]:0.045004)[&label=82]:0.046711,'OQ175284.1':0.031785)[&label=73]:0.020428,'OQ175302.1':0.02096)[&label=72]:0.028236,('OQ175287.1':1.0E-6,'OQ175289.1':1.0E-6)[&label=100]:0.034833)[&label=40]:7.14E-4)[&label=36]:0.005648)[&label=32]:0.00607,'KC522103.1':0.046099)[&label=57]:0.011685,'KC522101.1':0.047409)[&label=39]:0.002854,'KC522096.1':0.039648)[&label=34]:0.007809)[&label=49]:0.007338,'KC522102.1':0.07536)[&label=63]:0.031027,(('EF065510.1':0.0,'EF065512.1':0.0):2.0E-6,'EF065511.1':2.0E-6)[&label=100]:0.06759)[&label=62]:0.015114,((((('KC522092.1':0.0,'KC522100.1':0.0):1.0E-6,'KC522098.1':1.0E-6)[&label=63]:3.0E-6,'KC522094.1':0.001545)[&label=77]:3.0E-6,'KC522099.1':0.001543)[&label=100]:0.042808,(('KC522104.1':0.007074,'MH002340.1':0.031311)[&label=100]:0.034306,('MN611520.1':2.0E-6,'OQ175274.1':2.0E-6)[&label=100]:0.034218)[&label=100]:0.02407)[&label=100]:0.045893)[&label=68]:0.028785,('OQ175231.1':0.087346,'OQ175292.1':0.080053)[&label=65]:0.017509)[&label=100]:0.029099,'OQ715761.1':0.088761)[&label=100]:0.055062)[&label=87]:2.0E-6):1.0E-6,'C_AA075372.1':0.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
