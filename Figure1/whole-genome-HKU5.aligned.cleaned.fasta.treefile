@@ -1,0 +1,155 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=53;
+	taxlabels
+	'C_AA075371.1_NV-SD-L1'[&Country="China",Definition="UNVERIFIED: Pipistrellus bat coronavirus HKU5 isolate NV-SD-L1",Host="Pipistrellus",Organism="HKU5 isolate NV-SD-L1",collection.date="2022",isolate.name="NV-SD-L1"]
+	'C_AA075372.1_NV-SD-L2'[&Country="China",Definition="UNVERIFIED: Pipistrellus bat coronavirus HKU5 isolate NV-SD-L2 sequence.",Host="Pipistrellus",Organism="HKU5 isolate NV-SD-L2",collection.date="2022",isolate.name="NV-SD-L2"]
+	'C_AA075373.1'[&Country="China",Definition="UNVERIFIED: Pipistrellus bat coronavirus HKU5 isolate NV-SD-I2",Host="Pipistrellus",Organism="HKU5 isolate NV-SD-I2",collection.date="2022",isolate.name="NV-SD-I2"]
+	'C_AA085189.1'[&Definition="Pipistrellus isolate 223023 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.",Organism="HKU5 isolate lineage 2-223023",collection.date="2022",isolate.name="223023"]
+	'C_AA085190.1'[&Country="China",Definition="Pipistrellus isolate 223028 non-structural polyprotein 1ab (ORF1ab), spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.",Host="Pipistrellus",Organism="HKU5 isolate lineage 2-223028",collection.date="2022",isolate.name="223028"]
+	'C_AA085191.1'[&Definition="Pipistrellus isolate 220153 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.",Organism="HKU5 isolate lineage 2-220153",collection.date="2022",isolate.name="220153"]
+	'C_AA085192.1'[&Definition="Pipistrellus isolate 220155 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.",Organism="HKU5 isolate lineage 2-220155",collection.date="2022",isolate.name="220155"]
+	'C_AA085193.1'[&Country="China",Definition="Pipistrellus isolate 223381 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.",Host="Pipistrellus",Organism="HKU5 isolate lineage 2-223381",collection.date="2022",isolate.name="223381"]
+	'C_AA085194.1'[&Country="China",Definition="Pipistrellus isolate 141441 non-structural polyprotein 1ab, spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds; and ORF1ab gene, complete sequence.",Host="Pipistrellus",Organism="HKU5 isolate lineage 2-141441",collection.date="2014",isolate.name="141441"]
+	'EF065510.1'[&Country="",Definition="Bat coronavirus HKU5-2, complete genome",Host="bat",Organism="Bat coronavirus HKU5-2",collection.date="",isolate.name="TT03f"]
+	'EF065511.1'[&Country="",Definition="Bat coronavirus HKU5-3, complete genome",Host="bat",Organism="Bat coronavirus HKU5-3",collection.date="",isolate.name="TT06f"]
+	'EF065512.1'[&Country="",Definition="Bat coronavirus HKU5-5, complete genome",Host="bat",Organism="Bat coronavirus HKU5-5",collection.date="",isolate.name="TT07f"]
+	'KJ473820.1'[&Country="",Definition="BtPa-BetaCoV/GD2013, complete genome",Host="Pipistrellus abramus",Organism="BtPa-BetaCoV/GD2013",collection.date="2013",isolate.name="BtPa-GD2013"]
+	'MH002340.1'[&Country="",Definition="Pipistrellus bat coronavirus HKU5 isolate BY140535, complete genome",Host="Pipistrellus abramus",Note="metagenomic",Organism="Pipistrellus bat coronavirus HKU5",collection.date="26-Jun-2014",isolate.name="BY140535"]
+	'MH002341.1'[&Country="",Definition="Pipistrellus bat coronavirus HKU5 isolate BY140562, complete genome",Host="Pipistrellus abramus",Organism="Pipistrellus bat coronavirus HKU5",collection.date="28-Jun-2014",isolate.name="BY140562"]
+	'MH002342.1'[&Country="",Definition="Pipistrellus bat coronavirus HKU5 isolate YD13403, complete genome",Host="Pipistrellus abramus",Organism="Pipistrellus bat coronavirus HKU5",collection.date="03-Jun-2013",isolate.name="YD13403"]
+	'MN611520.1'[&Country="",Definition="Pipistrellus abramus bat coronavirus HKU5-related isolate BY140568, complete genome",Host="Pipistrellus abramus",Organism="Pipistrellus abramus bat coronavirus HKU5-related",collection.date="Mar-2018",isolate.name="BY140568"]
+	'MZ328297.1'[&Country="",Definition="Wenzhou Pipistrellus abramus betacoronavirus 1, complete genome",Host="Pipistrellus abramus",Organism="Wenzhou Pipistrellus abramus betacoronavirus 1",collection.date="2016",isolate.name="YJB_Pabr"]
+	'NC_009020.1'[&Country="",Definition="Pipistrellus bat coronavirus HKU5, complete genome",Host="Pipistrellus abramus",Organism="Pipistrellus bat coronavirus HKU5",collection.date="",isolate.name="HKU5-1 LMH03f"]
+	'OQ175231.1'[&Country="",Definition="Bat Coronavirus PaGX17 isolate BtPa-BetaCoV/GX2017-Q271, complete genome",Host="Hipposideros armiger",Organism="Bat Coronavirus PaGX17",collection.date="2017",isolate.name="BtPa-BetaCoV/GX2017-Q271"]
+	'OQ175264.1'[&Country="",Definition="Bat Coronavirus HaYN16 isolate BtHa-BetaCoV/YN2016-Q244, complete genome",Host="Hipposideros armiger",Organism="Bat Coronavirus HaYN16",collection.date="2016",isolate.name="BtHa-BetaCoV/YN2016-Q244"]
+	'OQ175265.1'[&Country="",Definition="Bat Coronavirus HaYN16 isolate BtHa-BetaCoV/YN2016-Q245, complete genome",Host="Hipposideros larvatus",Organism="Bat Coronavirus HaYN16",collection.date="2016",isolate.name="BtHa-BetaCoV/YN2016-Q245"]
+	'OQ175272.1'[&Country="",Definition="Bat Coronavirus HlHI19 isolate BtHl-BetaCoV/HI2019-Q252, complete genome",Host="Miniopterus pusillus",Organism="Bat Coronavirus HlHI19",collection.date="2019",isolate.name="BtHl-BetaCoV/HI2019-Q252"]
+	'OQ175273.1'[&Country="",Definition="Bat Coronavirus MpHI19 isolate BtMp-BetaCoV/HI2019-Q253, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus MpHI19",collection.date="2019",isolate.name="BtMp-BetaCoV/HI2019-Q253"]
+	'OQ175274.1'[&Country="",Definition="Bat Coronavirus PaGD18 isolate BtPa-BetaCoV/GD2018-Q254, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD18",collection.date="24-Apr-2018",isolate.name="BtPa-BetaCoV/GD2018-Q254"]
+	'OQ175275.1'[&Country="",Definition="Bat Coronavirus PaGD18 isolate BtPa-BetaCoV/GD2018-Q255, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD18",collection.date="02-Jul-2018",isolate.name="BtPa-BetaCoV/GD2018-Q255"]
+	'OQ175276.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q256, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="08-May-2020",isolate.name="BtPa-BetaCoV/JX2020-Q256"]
+	'OQ175277.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q257, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="08-May-2020",isolate.name="BtPa-BetaCoV/JX2020-Q257"]
+	'OQ175278.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q258, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="08-May-2020",isolate.name="BtPa-BetaCoV/JX2020-Q258"]
+	'OQ175279.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q259, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="08-May-2020",isolate.name="BtPa-BetaCoV/JX2020-Q259"]
+	'OQ175280.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q260, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="12-May-2020",isolate.name="BtPa-BetaCoV/JX2020-Q260"]
+	'OQ175281.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q261, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="12-May-2020",isolate.name="BtPa-BetaCoV/JX2020-Q261"]
+	'OQ175282.1'[&Country="",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q262, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD17",collection.date="12-Apr-2017",isolate.name="BtPa-BetaCoV/GD2017-Q262"]
+	'OQ175283.1'[&Country="",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q263, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD17",collection.date="12-Apr-2017",isolate.name="BtPa-BetaCoV/GD2017-Q263"]
+	'OQ175284.1'[&Country="",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q264, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD17",collection.date="13-Apr-2017",isolate.name="BtPa-BetaCoV/GD2017-Q264"]
+	'OQ175285.1'[&Country="",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q265, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD17",collection.date="09-Jul-2017",isolate.name="BtPa-BetaCoV/GD2017-Q265"]
+	'OQ175286.1'[&Country="China",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q266, complete genome",Host="Neogale vison",Organism="Bat Coronavirus PaGD17",collection.date="11-Oct-2017",isolate.name="BtPa-BetaCoV/GD2017-Q266"]
+	'OQ175287.1'[&Country="China",Definition="Bat Coronavirus PaGD16 isolate BtPa-BetaCoV/GD2016-Q267, complete genome",Host="Neogale vison",Organism="Bat Coronavirus PaGD16",collection.date="2016",isolate.name="BtPa-BetaCoV/GD2016-Q267"]
+	'OQ175288.1'[&Country="",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q268, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD17",collection.date="2017",isolate.name="BtPa-BetaCoV/GD2017-Q268"]
+	'OQ175289.1'[&Country="China",Definition="Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q269, complete genome",Host="Neogale vison",Organism="Bat Coronavirus PaGD17",collection.date="2017",isolate.name="BtPa-BetaCoV/GD2017-Q269"]
+	'OQ175290.1'[&Country="",Definition="Bat Coronavirus PaGD18 isolate BtPa-BetaCoV/GD2018-Q270, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGD18",collection.date="2018",isolate.name="BtPa-BetaCoV/GD2018-Q270"]
+	'OQ175292.1'[&Country="",Definition="Bat Coronavirus PaGZ19 isolate BtPa-BetaCoV/GZ2019-Q272, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaGZ19",collection.date="2019",isolate.name="BtPa-BetaCoV/GZ2019-Q272"]
+	'OQ175293.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q273, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q273"]
+	'OQ175294.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q274, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q274"]
+	'OQ175295.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q275, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q275"]
+	'OQ175296.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q276, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q276"]
+	'OQ175297.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q277, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q277"]
+	'OQ175298.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q278, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q278"]
+	'OQ175299.1'[&Country="",Definition="Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q279, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaJX20",collection.date="2020",isolate.name="BtPa-BetaCoV/JX2020-Q279"]
+	'OQ175300.1'[&Country="",Definition="Bat Coronavirus PaZJ10 isolate BtPa-BetaCoV/ZJ2010-Q280, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus PaZJ10",collection.date="2010",isolate.name="BtPa-BetaCoV/ZJ2010-Q280"]
+	'OQ175301.1'[&Country="",Definition="Bat Coronavirus PaHI19 isolate BtPa-BetaCoV/HI2019-Q281, complete genome",Host="Rhinolophus macrotis",Organism="Bat Coronavirus PaHI19",collection.date="2019",isolate.name="BtPa-BetaCoV/HI2019-Q281"]
+	'OQ175302.1'[&Country="",Definition="Bat Coronavirus RmGX17 isolate BtRm-BetaCoV/GX2017-Q282, complete genome",Host="Pipistrellus abramus",Organism="Bat Coronavirus RmGX17",collection.date="17-Dec-2017",isolate.name="BtRm-BetaCoV/GX2017-Q282"]
+	'OQ715761.1'[&Country="",Definition="MAG: Pipistrellus bat coronavirus HKU5 isolate WZ_Pi.abramus_betacorona_2 ORF1ab polyprotein, spike protein, ORF3a protein, ORF3b protein, ORF3c protein, ORF3d protein, E protein, M protein, and N protein genes, complete cds",Host="bat",Organism="Pipistrellus bat coronavirus HKU5",collection.date="",isolate.name="WZ_Pi.abramus_betacorona_2"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('C_AA075371.1_NV-SD-L1':6.4E-5,'C_AA075372.1_NV-SD-L2':3.1E-5,('C_AA075373.1':1.68E-4,((((((((('C_AA085193.1':0.009024,'C_AA085194.1':0.007075)[&label=98]:0.002617,('C_AA085190.1':1.0E-6,'C_AA085189.1':1.0E-6)[&label=100]:0.006511)[&label=99]:0.006247,('C_AA085192.1':1.0E-6,'C_AA085191.1':3.2E-5)[&label=100]:0.011643)[&label=100]:0.86256,((((('MH002340.1':0.027544,('MN611520.1':0.011855,'OQ175274.1':0.010452)[&label=100]:0.011999)[&label=53]:0.002953,('OQ175302.1':0.023117,'NC_009020.1':0.024201)[&label=82]:0.007672)[&label=33]:8.76E-4,((('EF065510.1':9.8E-5,('EF065511.1':1.28E-4,'EF065512.1':1.0E-6)[&label=97]:2.9E-5)[&label=100]:0.023924,('KJ473820.1':0.014966,'MH002341.1':0.014416)[&label=100]:0.010217)[&label=32]:0.00156,('MH002342.1':0.026939,(('OQ175286.1':0.027299,'OQ175289.1':0.001784)[&label=100]:0.012585,'OQ175287.1':0.014415)[&label=100]:0.008849)[&label=60]:0.002054)[&label=33]:0.001517)[&label=100]:0.005986,(((('OQ175282.1':0.027734,'OQ175283.1':0.02477)[&label=96]:0.006963,'OQ175288.1':0.019263)[&label=100]:0.012783,'OQ175284.1':0.023605)[&label=100]:0.022471,'OQ175301.1':0.037894)[&label=100]:0.008911)[&label=100]:0.022287,'OQ175285.1':0.036593)[&label=99]:0.008928)[&label=55]:0.004376,'OQ175290.1':0.038414)[&label=58]:0.011377,'OQ175275.1':0.043895)[&label=60]:0.008198,('OQ175231.1':0.04393,'OQ175292.1':0.037006)[&label=100]:0.011493)[&label=92]:0.006157,('OQ175300.1':0.038229,('OQ715761.1':0.031112,'MZ328297.1':0.030532)[&label=98]:0.013334)[&label=98]:0.007733)[&label=81]:0.004387,(((((((('OQ175264.1':0.002677,'OQ175265.1':0.003979)[&label=100]:0.005703,'OQ175272.1':0.001371)[&label=78]:1.21E-4,'OQ175273.1':0.002625)[&label=99]:7.31E-4,'OQ175297.1':0.002568)[&label=99]:0.00104,'OQ175298.1':0.001773)[&label=100]:0.011201,'OQ175299.1':0.012069)[&label=100]:0.006658,'OQ175280.1':0.012273)[&label=100]:0.011224,((('OQ175276.1':0.019211,'OQ175293.1':0.008555)[&label=100]:0.013626,'OQ175281.1':0.022045)[&label=100]:0.004274,((('OQ175277.1':0.014337,'OQ175278.1':0.028551)[&label=100]:0.005397,('OQ175279.1':0.0246,'OQ175296.1':0.018368)[&label=100]:0.003507)[&label=100]:0.004675,('OQ175294.1':0.027089,'OQ175295.1':0.021643)[&label=100]:0.009079)[&label=96]:0.001404)[&label=100]:0.003321)[&label=100]:0.008405)[&label=100]:0.060164)[&label=69]:3.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=11;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="isolate.name";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=13;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

@@ -1,0 +1,72 @@
+Accession.number	Gene.encoded	Definition	Organism	isolate.name	collection.date	Country	Host
+C_AA075371.1	complete-genome	UNVERIFIED: Pipistrellus bat coronavirus HKU5 isolate NV-SD-L1	HKU5 isolate NV-SD-L1	NV-SD-L1	2022	China: Shandong	Neogale vison
+C_AA075372.1	complete-genome	UNVERIFIED: Pipistrellus bat coronavirus HKU5 isolate NV-SD-L2 sequence.	HKU5 isolate NV-SD-L2	NV-SD-L2	2022	China: Shandong	Neogale vison
+C_AA075373.1	complete-genome	UNVERIFIED: Pipistrellus bat coronavirus HKU5 isolate NV-SD-I2	HKU5 isolate NV-SD-I2	NV-SD-I2	2022	China: Shandong	Neogale vison
+C_AA085189.1	complete-genome	Pipistrellus isolate 223023 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.	HKU5 isolate lineage 2-223023	223023	2022	China	Pipistrellus
+C_AA085190.1	complete-genome	Pipistrellus isolate 223028 non-structural polyprotein 1ab (ORF1ab), spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.	HKU5 isolate lineage 2-223028	223028	2022	China	Pipistrellus
+C_AA085191.1	complete-genome	Pipistrellus isolate 220153 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.	HKU5 isolate lineage 2-220153	220153	2022	China	Pipistrellus
+C_AA085192.1	complete-genome	Pipistrellus isolate 220155 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.	HKU5 isolate lineage 2-220155	220155	2022	China	Pipistrellus
+C_AA085193.1	complete-genome	Pipistrellus isolate 223381 non-structural polyprotein 1ab gene, complete cds; ORF1ab gene, complete sequence; and spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.	HKU5 isolate lineage 2-223381	223381	2022	China	Pipistrellus
+C_AA085194.1	complete-genome	Pipistrellus isolate 141441 non-structural polyprotein 1ab, spike protein (S), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds; and ORF1ab gene, complete sequence.	HKU5 isolate lineage 2-141441	141441	2014	China	Pipistrellus
+DQ648790.1	spike	Bat coronavirus (BtCoV/A434/2005) spike (S) gene, complete cds	Bat coronavirus (BtCoV/A434/2005)	BtCoV/A434/2005	2005		
+EF065510.1	complete-genome	Bat coronavirus HKU5-2, complete genome	Bat coronavirus HKU5-2	TT03f	2006	China: Guangdong	bat
+EF065511.1	complete-genome	Bat coronavirus HKU5-3, complete genome	Bat coronavirus HKU5-3	TT06f	2006	China: Guangdong	bat
+EF065512.1	complete-genome	Bat coronavirus HKU5-5, complete genome	Bat coronavirus HKU5-5	TT07f	2006	China: Guangdong	bat
+KC522090.1	spike	Pipistrellus bat coronavirus HKU5 isolate 16S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	16S	12-Jul-2007		bat
+KC522091.1	spike	Pipistrellus bat coronavirus HKU5 isolate 17S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	17S	08-Oct-2007		bat
+KC522092.1	spike	Pipistrellus bat coronavirus HKU5 isolate 18S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	18S	30-Oct-2007		bat
+KC522093.1	spike	Pipistrellus bat coronavirus HKU5 isolate 19S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	19S	30-Oct-2007		bat
+KC522094.1	spike	Pipistrellus bat coronavirus HKU5 isolate 20S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	20S	30-Oct-2007		bat
+KC522095.1	spike	Pipistrellus bat coronavirus HKU5 isolate 21S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	21S	30-Oct-2007		bat
+KC522096.1	spike	Pipistrellus bat coronavirus HKU5 isolate 22S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	22S	10-Sep-2008		bat
+KC522097.1	spike	Pipistrellus bat coronavirus HKU5 isolate 24S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	24S	24-Apr-2009		bat
+KC522098.1	spike	Pipistrellus bat coronavirus HKU5 isolate 26S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	26S	14-Jul-2009		bat
+KC522099.1	spike	Pipistrellus bat coronavirus HKU5 isolate 27S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	27S	14-Jul-2009		bat
+KC522100.1	spike	Pipistrellus bat coronavirus HKU5 isolate 28S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	28S	14-Jul-2009		bat
+KC522101.1	spike	Pipistrellus bat coronavirus HKU5 isolate 30S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	30S	14-Oct-2010		bat
+KC522102.1	spike	Pipistrellus bat coronavirus HKU5 isolate 31S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	31S	02-Aug-2012		bat
+KC522103.1	spike	Pipistrellus bat coronavirus HKU5 isolate 32S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	32S	02-Aug-2012		bat
+KC522104.1	spike	Pipistrellus bat coronavirus HKU5 isolate 33S spike glycoprotein gene, complete cds	Pipistrellus bat coronavirus HKU5	33S	02-Aug-2012		bat
+KJ473820.1	complete-genome	BtPa-BetaCoV/GD2013, complete genome	BtPa-BetaCoV/GD2013	BtPa-GD2013	2013	China: Guangdong	Pipistrellus abramus
+MH002340.1	complete-genome	Pipistrellus bat coronavirus HKU5 isolate BY140535, complete genome	Pipistrellus bat coronavirus HKU5	BY140535	26-Jun-2014	China: Guangdong	
+MH002341.1	complete-genome	Pipistrellus bat coronavirus HKU5 isolate BY140562, complete genome	Pipistrellus bat coronavirus HKU5	BY140562	28-Jun-2014	China: Guangdong	
+MH002342.1	complete-genome	Pipistrellus bat coronavirus HKU5 isolate YD13403, complete genome	Pipistrellus bat coronavirus HKU5	YD13403	03-Jun-2013	China: Guangdong	
+MN611520.1	complete-genome	Pipistrellus abramus bat coronavirus HKU5-related isolate BY140568, complete genome	Pipistrellus abramus bat coronavirus HKU5-related	BY140568	Mar-2018	China: Guangdong	Pipistrellus abramus
+MT648449.1	spike	Bat coronavirus isolate 16BF109 spike protein gene, partial cds	Bat coronavirus	16BF109	2016		Pipistrellus abramus
+MZ328297.1	complete-genome	Wenzhou Pipistrellus abramus betacoronavirus 1, complete genome	Wenzhou Pipistrellus abramus betacoronavirus 1	YJB_Pabr	2016	China: Zhejiang	Pipistrellus abramus
+NC_009020.1	complete-genome	Pipistrellus bat coronavirus HKU5, complete genome	Pipistrellus bat coronavirus HKU5	HKU5-1 LMH03f	2006	China: Guangdong	bat
+OQ175231.1	complete-genome	Bat Coronavirus PaGX17 isolate BtPa-BetaCoV/GX2017-Q271, complete genome	Bat Coronavirus PaGX17	BtPa-BetaCoV/GX2017-Q271	2017	China: Guangxi	Pipistrellus abramus
+OQ175264.1	complete-genome	Bat Coronavirus HaYN16 isolate BtHa-BetaCoV/YN2016-Q244, complete genome	Bat Coronavirus HaYN16	BtHa-BetaCoV/YN2016-Q244	2016	China: Yunnan	Hipposideros armiger
+OQ175265.1	complete-genome	Bat Coronavirus HaYN16 isolate BtHa-BetaCoV/YN2016-Q245, complete genome	Bat Coronavirus HaYN16	BtHa-BetaCoV/YN2016-Q245	2016	China: Yunnan	Hipposideros armiger
+OQ175272.1	complete-genome	Bat Coronavirus HlHI19 isolate BtHl-BetaCoV/HI2019-Q252, complete genome	Bat Coronavirus HlHI19	BtHl-BetaCoV/HI2019-Q252	2019	China: Hainan	Hipposideros larvatus
+OQ175273.1	complete-genome	Bat Coronavirus MpHI19 isolate BtMp-BetaCoV/HI2019-Q253, complete genome	Bat Coronavirus MpHI19	BtMp-BetaCoV/HI2019-Q253	2019	China: Hainan	Miniopterus pusillus
+OQ175274.1	complete-genome	Bat Coronavirus PaGD18 isolate BtPa-BetaCoV/GD2018-Q254, complete genome	Bat Coronavirus PaGD18	BtPa-BetaCoV/GD2018-Q254	24-Apr-2018	China: Guangdong	Pipistrellus abramus
+OQ175275.1	complete-genome	Bat Coronavirus PaGD18 isolate BtPa-BetaCoV/GD2018-Q255, complete genome	Bat Coronavirus PaGD18	BtPa-BetaCoV/GD2018-Q255	02-Jul-2018	China: Guangdong	Pipistrellus abramus
+OQ175276.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q256, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q256	08-May-2020	China: Jiangxi	Pipistrellus abramus
+OQ175277.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q257, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q257	08-May-2020	China: Jiangxi	Pipistrellus abramus
+OQ175278.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q258, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q258	08-May-2020	China: Jiangxi	Pipistrellus abramus
+OQ175279.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q259, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q259	08-May-2020	China: Jiangxi	Pipistrellus abramus
+OQ175280.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q260, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q260	12-May-2020	China: Jiangxi	Pipistrellus abramus
+OQ175281.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q261, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q261	12-May-2020	China: Jiangxi	Pipistrellus abramus
+OQ175282.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q262, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q262	12-Apr-2017	China: Guangdong	Pipistrellus abramus
+OQ175283.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q263, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q263	12-Apr-2017	China: Guangdong	Pipistrellus abramus
+OQ175284.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q264, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q264	13-Apr-2017	China: Guangdong	Pipistrellus abramus
+OQ175285.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q265, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q265	09-Jul-2017	China: Guangdong	Pipistrellus abramus
+OQ175286.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q266, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q266	11-Oct-2017	China: Guangdong	Pipistrellus abramus
+OQ175287.1	complete-genome	Bat Coronavirus PaGD16 isolate BtPa-BetaCoV/GD2016-Q267, complete genome	Bat Coronavirus PaGD16	BtPa-BetaCoV/GD2016-Q267	2016	China: Guangdong	Pipistrellus abramus
+OQ175288.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q268, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q268	2017	China: Guangdong	Pipistrellus abramus
+OQ175289.1	complete-genome	Bat Coronavirus PaGD17 isolate BtPa-BetaCoV/GD2017-Q269, complete genome	Bat Coronavirus PaGD17	BtPa-BetaCoV/GD2017-Q269	2017	China: Guangdong	Pipistrellus abramus
+OQ175290.1	complete-genome	Bat Coronavirus PaGD18 isolate BtPa-BetaCoV/GD2018-Q270, complete genome	Bat Coronavirus PaGD18	BtPa-BetaCoV/GD2018-Q270	2018	China: Guangdong	Pipistrellus abramus
+OQ175292.1	complete-genome	Bat Coronavirus PaGZ19 isolate BtPa-BetaCoV/GZ2019-Q272, complete genome	Bat Coronavirus PaGZ19	BtPa-BetaCoV/GZ2019-Q272	2019	China: Guizhou	Pipistrellus abramus
+OQ175293.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q273, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q273	2020	China: Jiangxi	Pipistrellus abramus
+OQ175294.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q274, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q274	2020	China: Jiangxi	Pipistrellus abramus
+OQ175295.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q275, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q275	2020	China: Jiangxi	Pipistrellus abramus
+OQ175296.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q276, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q276	2020	China: Jiangxi	Pipistrellus abramus
+OQ175297.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q277, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q277	2020	China: Jiangxi	Pipistrellus abramus
+OQ175298.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q278, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q278	2020	China: Jiangxi	Pipistrellus abramus
+OQ175299.1	complete-genome	Bat Coronavirus PaJX20 isolate BtPa-BetaCoV/JX2020-Q279, complete genome	Bat Coronavirus PaJX20	BtPa-BetaCoV/JX2020-Q279	2020	China: Jiangxi	Pipistrellus abramus
+OQ175300.1	complete-genome	Bat Coronavirus PaZJ10 isolate BtPa-BetaCoV/ZJ2010-Q280, complete genome	Bat Coronavirus PaZJ10	BtPa-BetaCoV/ZJ2010-Q280	2010	China: Zhejiang	Pipistrellus abramus
+OQ175301.1	complete-genome	Bat Coronavirus PaHI19 isolate BtPa-BetaCoV/HI2019-Q281, complete genome	Bat Coronavirus PaHI19	BtPa-BetaCoV/HI2019-Q281	2019	China: Hainan	Pipistrellus abramus
+OQ175302.1	complete-genome	Bat Coronavirus RmGX17 isolate BtRm-BetaCoV/GX2017-Q282, complete genome	Bat Coronavirus RmGX17	BtRm-BetaCoV/GX2017-Q282	17-Dec-2017	China: Guangxi	Rhinolophus macrotis
+OQ715761.1	complete-genome	MAG: Pipistrellus bat coronavirus HKU5 isolate WZ_Pi.abramus_betacorona_2 ORF1ab polyprotein, spike protein, ORF3a protein, ORF3b protein, ORF3c protein, ORF3d protein, E protein, M protein, and N protein genes, complete cds	Pipistrellus bat coronavirus HKU5	WZ_Pi.abramus_betacorona_2	2017	China: Zhejiang	Pipistrellus abramus
+PV174919.1	spike	Mink respiratory coronavirus isolate MRCoV spike (S) gene, complete cds	mink respiratory coronavirus	MRCoV	2024-Nov-29	China	Neogale vison
