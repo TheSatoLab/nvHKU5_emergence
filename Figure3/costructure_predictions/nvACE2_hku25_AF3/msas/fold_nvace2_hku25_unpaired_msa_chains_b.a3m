@@ -1,0 +1,220 @@
+>query
+GAFIEQSSGKECDFSPMLTGTPPQVYNFRRLVFTDCNYNLTKLLSLFQVSEFSCHQVSPDALASGCYSSLTVDYFAYPLSLASYLQQGSTGEITQYNYKQDFSNPTCRILATAPANITLTKPNNYNWLTECYHSTAFGKQPYYVQPGQYTPCLGLAISGFTTSYETRRDPNTKMAATGLVTAMTTSLQMAFIISVQYGTDTNSVCPMQALRNDTSVHDKLGQCIDYSLYG
+>UniRef90_A0A678TBW4/380-609 [subseq from] Spike glycoprotein n=4 Tax=Merbecovirus TaxID=2509494 RepID=A0A678TBW4_MERS
+GAFIEQSSGKECDFSPMLTGTPPQVYNFRRLVFTDCNYNLTKLLSLFQVSEFSCHQVSPDALASGCYSSLTVDYFAYPTSLASYLQQGSTGEITQYNYKQDFSNPTCRILATAPANITLSKPSNYNWLTECYHSSAFGKQPYYVQPGQYTPCLGLAISGFSTSYETRRDPNTKMAATGLVTAMTTNLQMAFIISVQYGTDTNSVCPMQALRNDTSVHDKLGQCIDYSLYG
+>UniRef90_A0A023Y9K3/347-580 [subseq from] Spike glycoprotein n=1 Tax=BtVs-BetaCoV/SC2013 TaxID=1495253 RepID=A0A023Y9K3_MERS
+GSFIEQAQGTECDFSPLLKDEPPQVYNFSRLVFTNCNYNLTKLLALFQVSQFSCHQVSPSALASGCYSSLTVDYFAYPTYMSSYLQQGSTGEISQFNYKQDFSNPTCRILATVPANLSasglLPKPSNYVWLSECYQNSFTGKNFQYVKAGQYTPCLGLAANGFEKSYQTHRDPVSKLAVTGVVTPMTSALQMAFIISVQYGTDSNSVCPMQAVRNDTSVDDKLGLCIDYSLYG
+>UniRef90_A0A2I6PIW5/378-608 [subseq from] Spike glycoprotein n=2 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A2I6PIW5_MERS
+GEFVEQPQGVECDFSKLFKAAPPQIYNFSRLVFTNCNYNLTKLLSLFHVSEFSCHQVSPSALASGCYSSLTVDYFAYPLYLASYLQQGSTGEIAQYNYKQDFSNPTCRILASVPANVSIPKPDKYIWLSQCYSFSAYsGDVPHYVLPGQYTPCLYLTSSGFDNSYQTNRDFQNKMAATGVISSMTDNLQMAFVISVQYGTDTNSVCPMQALRNDTSVEDKLGVCIDYTLYG
+>UniRef90_A0A5H2WW98/6-183 [subseq from] Spike protein (Fragment) n=1 Tax=Bat coronavirus TaxID=1508220 RepID=A0A5H2WW98_9NIDO
+GEFIEQPNSKECDFSSMLTGTPPQVYNFRRLVFTDCNYNLTKLLSLFQVNEFSCYQVSPDALASGCYSSLTVDYFAYPTSLASYLQQGSTGDIAQYNYKQDFSNPTCRILATVPSNISLTKPTNYNWLTECYKSSAFGKQPFYVQPGQYTPCLGLAISGFSNSYESRQDPNTKTTATG----------------------------------------------------
+>UniRef90_A3EXD0/380-608 [subseq from] Spike glycoprotein n=23 Tax=Coronaviridae TaxID=11118 RepID=SPIKE_BCHK5
+GEFIEQATTQECDFTPMLTGTPPPIYNFKRLVFTNCNYNLTKLLSLFQVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSAGAIVQFNYKQDFSNPTCRVLATVPQNLTtITKPSNYAYLTECYKTSAYGKNYLYNAPGAYTPCLSLASRGFSTKYQSHSDG--ELTTTGYIYPVTGNLQMAFIISVQYGTDTNSVCPMQALRNDTSIEDKLDVCVEYSLHG
+>UniRef90_A0A7T6C1S9/58-286 [subseq from] Spike protein (Fragment) n=1 Tax=Bat coronavirus TaxID=1508220 RepID=A0A7T6C1S9_9NIDO
+GEFIEQPTAKECDFSPMLRGTPPPIYDFKRLVFTNCNYNLTKLLNLFQVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSTGEIVQFNYKQDFSNPTCRVLATVPSNLTsITKPSNYAYLTECYKLSAHGKNYLYNAPGGYTPCLSLASRGFTTKYQSHIDGD--LVTTGYIYPVNGNLQMAFIISVQYGTDTNSVCPMQALRTGTSIEDKLDTCVQYSLHG
+>UniRef90_A0A5H2WTJ3/377-605 [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus TaxID=1508220 RepID=A0A5H2WTJ3_9NIDO
+GYFVEQPHSSECDFSAMFSSQPPQVYNFSRLVFTNCNYNLTRLLSLFQVSEFSCHQVSPSALASGCYSSLTVDYFAYPLSMASYLRQGSTGPIAQFNYKQDFTNPTCRILAAVPSNVTIPLPQSYMWLTQCYTNSP--SNSHYVEAGSYTPCLGLASRGFNTFNSMHYDPATGLTATGSYQYISeEALEMAFIISVQYGTDSNSVCPLQAVHNDTKVDDKLGRCIEYSLYG
+>UniRef90_S4X276/380-613 [subseq from] Spike glycoprotein n=2 Tax=Bat coronavirus HKU5 TaxID=694008 RepID=S4X276_BCHK5
+GMFVEQSTSEECDFTKMLTGTPPQVYNFNRMVFTNCNYNLTKLLNLFQVSEFSCYQVSPSSLATGCYSSLTVDSFAFPLELSSYMQTGSAGPIRQFNYNQDFSKPTCRVLASVPSNYTaLSKPSNYVHLTECYTLGYSAKQYHNTQPGQYTPCLQLANQGFSRSGQSNSveLPSGEfKTATGYIIPMTDQLQMAFVISVQYGTDTNSVCPMQALRNDTSIQDKLDVCVEYSLHG
+>UniRef90_UPI000A276D54/1-199 [subseq from] Spike protein S1 n=1 Tax=Bat coronavirus HKU5 TaxID=694008 RepID=UPI000A276D54
+---------QECDFTPMLTGTPPPIYNFKRLVFTNCNYNLTKLLSLFQVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSAGAIVQFNYKQDFSNPTCRVLATVPQNLTtITKPSNYAYLTECYKTSAYGKNYLYNAPGAYTPCLSLASRGFSTKYQSHSDG--ELTTTGYIYPVTGNLQMAFIISVQYGTDTNSVCPMQH---------------------
+>UniRef90_A0A2R4KP93/376-614 [subseq from] Spike glycoprotein n=1 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A2R4KP93_MERS
+GQFIEQPNSVECDFTKLLSGTPPQVYNFNRLVFTNCNYNLTKLLSLFMVNEFSCDGISPDAIARGCYSSLTVDYFAYPLSMKSYMQPGSAGVISQYNYKQSFANPTCRIFATAPANLTITKPSSYSFISKCSRLTGDNshiETPIVINPGEYSICKNFAPNGFSQdgDYFTRQLSQLEgggiLVGVGSVTPMTDTLQMGFIISVQYGTDTNSVCPMMDLGNSTTITDKLGVCVEYNLYG
+>UniRef90_A0A2R4KP86/377-615 [subseq from] Spike glycoprotein n=1 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A2R4KP86_MERS
+GEFIEQPTSVECDFASMLNGTPPPVYNFNRLVFTNCNYNLTKLLSLFMVNEFSCNGISPDAIARGCYSSLIVDYFSYPLSMKSYMDPGSAGVVAQFNYKQSFANPTCRIFATAPANLTISKPSSYSYISKCSRLTGDNqhiETPITINPGEYSICRGFAPNGLSEDGQvfTRQlsdyEGGGTLVGVGNTVPMTEGLQMAFIISVQYGTDTNSVCPMMDLGNSSTITNQLGVCVDYKLYG
+>UniRef90_Q0Q4F2/377-615 [subseq from] Spike glycoprotein n=26 Tax=Coronaviridae TaxID=11118 RepID=SPIKE_BC133
+GTFIEQPNVTECDFSPMLTGVAPQVYNFKRLVFSNCNYNLTKLLSLFAVDEFSCNGISPDAIARGCYSTLTVDYFAYPLSMKSYIRPGSAGNIPLYNYKQSFANPTCRVMASVPDNVTITKPGAYGYISKCSRLTGVNQdieTPLYINPGEYSICRDFAPLGFSEDGQVFKRTLTQFEGGGLLigvgtrVPMTANLEMGFVISVQYGTGTDSVCPMLDLGDSLTITNRLGKCVDYSLYG
+>UniRef90_A0A7S5ZMU0/384-559 [subseq from] S protein (Fragment) n=1 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A7S5ZMU0_MERS
+GAFIEQPHSTECDFTSLFKAEPPQVYNFSRLVFTNCNYNLTKLLSLFQVSEFSCHQVSPSALASGCYSSLTVDYFAYPLSMASYLRQGSTGPIAQFNYKQDFSNPTCRILASVPSNVTIPMPKSYMWLTQCYTNS--PDNPHYVEPGQYTPCLGLAGRGFTTFDKTHIDRDTGLTATG----------------------------------------------------
+>UniRef90_UPI00052238B1/6-241 [subseq from] Spike protein S1 n=1 Tax=Bat coronavirus HKU4 TaxID=694007 RepID=UPI00052238B1
+GTFIEQPNATECDFSPMLTGVAPQVYNFKRLVFSNCNYNLTKLLSLFAVDEFSCNGISPDSIARGCYSTLTVDYFAYPLSMKSYIRPGSAGNIPLYNYKQSFANPTCRVMASVLANVTITKPHAYGYISKCSRLTGANQdveTPLYINPGEYSICRDFSPGGFSEDGQVFKRTLTQFEGGGLLigvgtrVPMTDNLQMSFIISVQYGTGTDSVCPMLDLGDSLTITNRLGKCVDYH---
+>UniRef90_W5ZZU6/109-347 [subseq from] S protein (Fragment) n=1 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=W5ZZU6_MERS
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPAAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSFSNPTCLILATVPHNLTtITKPLKYSYINKCSRLLSDdrTEVPQLVNANQYSPCVSIVPSTVWEDgdyYRKQLSPlegGGWLVASGSTVAMTEQLQMGFGITVQYGTDTNSVCPKLEFANDTKIASQLGNCVEYSLYG
+>UniRef90_W6A915/372-610 [subseq from] S protein (Fragment) n=2 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=W6A915_MERS
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPAAIVSNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSFSNPTCLILATVPHNLTtITKPLKYSYINKCSRLLSDdrTEVPQLVNANQYSPCVSIVPSTVWEDgdyYRKQLSPlegGGWLVASGSTVAMTEQLQMGFGITVQYGTDTNSVCPKLEFANDTKIASQLGNCVEYSLYG
+>UniRef90_K9N5Q8/372-610 [subseq from] Spike glycoprotein n=437 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=SPIKE_MERS1
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPAAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSFSNPTCLILATVPHNLTtITKPLKYSYINKCSRflSDDRTEVPQLVNANQYSPCVSIVPSTVWEDgdyYRKQLSPlegGGWLVASGSTVAMTEQLQMGFGITVQYGTDTNSVCPKLEFANDTKIASQLGNCVEYSLYG
+>UniRef90_A0A384YDL8/372-610 [subseq from] Spike glycoprotein n=1 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A384YDL8_MERS
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPAAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSSSNPTCLILATVPHNLTtITKPLKYSYINKCSRLLSDdrTEVPQLVNANQYSPCVSIVPSTVWEDgdyYRKQLSPlegGGWLVASGSTVAMTEQLQMGFGITVQYGTDTNSVCPKLEFANDTKIASQLGNCVEYSLYG
+>UniRef90_A0A499QHX0/7-236 [subseq from] Spike (Fragment) n=10 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A499QHX0_MERS
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPTAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSFSNPTCLILATVPHNLTtITKPLKYSYINKCSRLLSDdrTEVPQLVNANQYSPCVSIVPSTVWEDgdyYRKQLSPlegGGWLVASGSTVAMTEQLQMGFGITVQYGTDTNSVCPKLEFANDTKIASQLG---------
+>UniRef90_A0A059XKM4/145-277 [subseq from] Spike protein (Fragment) n=1 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=A0A059XKM4_MERS
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPAAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSFSNPTCLILATVPHNLTtITKPLKYSYINKCS--------------------------------------------------------------------------------------------------
+>UniRef90_U5LMM7/362-597 [subseq from] Spike glycoprotein n=14 Tax=Betacoronavirus TaxID=694002 RepID=U5LMM7_9BETC
+--YYEAAELTECDLDVLFKNDAPIIANYSRRVFTNCNYNLTKLLSLVQVDEFVCHKTTPEALATGCYSSLTVDWFALPFSMKSTLAIGSAEAISMFNYNQDYSNPTCRIHAAVTANVStalnFTANANYAYISRCQG--VDG-KPILLQPGQMTNiaCRsGVLARPSDADYFgySFQGRNYYLGRKSYKPkTDEGDVQMVYVITPKYDKGPDTVCPLKDMGAAsSSLDGLLGQCIDYDIHG
+>UniRef90_A0A5Q0TVR4/369-598 [subseq from] Spike glycoprotein n=3 Tax=Coronaviridae TaxID=11118 RepID=A0A5Q0TVR4_9BETC
+--------LEECALDVLFKNIAPQIANYSRRVFTNCNYNLTKLLSLVEVDEFVCDKTTPESLATGCYSSLVVDWFALPLSMKSTLAIGSAEAISMFNYNQDYSNPTCRIHATINSNVSsslnFTANNNYAYISRCQGTD--G-KPILLQKGQLPNiaCR-SGVLGLSNDVDYfGYNFNGRIFYIGRksYTPRTSegSIQMVYVITANYAEGPNNVCPLKDTTTATDNLDsLLGQCIDYDING
+>UniRef90_W8PP24/247-346 [subseq from] Spike protein (Fragment) n=2 Tax=Middle East respiratory syndrome-related coronavirus TaxID=1335626 RepID=W8PP24_MERS
+GSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSVNDFTCSQISPAAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQ----------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_U5NJG5/375-608 [subseq from] Spike glycoprotein n=3 Tax=Coronaviridae TaxID=11118 RepID=U5NJG5_MERS
+GAYYEAHVYPDCNFTELFRERAPTIMQYKREVFTRCNYNLSLLLSLVQVDEFVCDKITPEALATGCYSSLTVDWFAFPYAWKSYLAIGSADRIVRFNYNQDYSNPSCRIHSKVNSSIGISYAGAYSYITNCNYG-ATNKDD-VVKPGGRasQQCITGALNSPTTGqlwaYNFGGVPY-RVSRLTYTDHLSDPLDMVYVITVKYEPGAETVCPKQI-RPDysTNITHLLGSCISYDIYG
+>UniRef90_L7UP84/379-601 [subseq from] Spike glycoprotein n=1 Tax=Betacoronavirus BtCoV/KW2E-F93/Nyc_spec/GHA/2010 TaxID=1269327 RepID=L7UP84_9BETC
+----EVSDLEECDFDQFFKNV-SGIAKYSRASFLNCKYNMTKLLSLVAVDEFNCDRVTPQALASTCASSLVVDWFSFPISLKSYLQAGSSSPIVKLNYKQDYSNPSCRVTG----QISQTNVDAQYYVAWCGI---NGDEQ-IISPGgRIIPqCLDMASWGGgDGNLKSVQINGKEYTARGLkyTSSFNNGTDMYFVITVRYNEGPQNVCPLIAIPDeDKTIDDKLNDCINYNLLG
+>UniRef90_A0A2H4MZ26/340-450 [subseq from] Spike glycoprotein n=1 Tax=Rodent coronavirus TaxID=2050018 RepID=A0A2H4MZ26_9NIDO
+------------------ANTVPSPINWERKTFSGCNFNMSRLLDLVQASSFTCNNIDASKLSSICFGSITIDKFAIPNSRRVDLQLGSTGYIQNFNYRMDGAATSCQLYYSLPqADITVTKTNPSGWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2H4MXV6/330-449 [subseq from] Spike glycoprotein n=1 Tax=Rodent coronavirus TaxID=2050018 RepID=A0A2H4MXV6_9NIDO
+----------DCDMESWLNApTVPSPINWERKTFSSCNFNMSSLLNRVQASSFTCNNIDASKFYGMCFGSITIDKFAIPLSRKVDLQLGSSGYLQNFNYRIDQSATSCQMYYGIPQnNVTVTKINPSGWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2H4ZBK9/193-321 [subseq from] Spike glycprotein (Fragment) n=3 Tax=unidentified human coronavirus TaxID=694448 RepID=A0A2H4ZBK9_9NIDO
+----------DCDIDNWLNNvSVPSPLNWERRIFSNCNFNLSTLLRLVHVDSFSCNNLDKSKIFGSCFNSITVDKFAIPNRRRDDLQLGSSGFLQSSNYKIDISSSSCQLYYSLPlLNVTINNFNPSSWNR-RYGFDSFN--------------------------------------------------------------------------------------------
+>UniRef90_S5UK74/57-122 [subseq from] Spike protein (Fragment) n=6 Tax=Betacoronavirus 1 TaxID=694003 RepID=S5UK74_9BETC
+-------------------------------------------------TVLSHYYVMP----LTCDSAMTLEYWVTPLTSKQYLVAfNQDGVIfNAVDCKSDFmSEIKCKTLSIAPST------------------------------------------------------------------------------------------------------------------
+>UniRef90_S5UK74/158-267 [subseq from] Spike protein (Fragment) n=6 Tax=Betacoronavirus 1 TaxID=694003 RepID=S5UK74_9BETC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_A0A0A7UZR7/332-450 [subseq from] Spike glycoprotein n=17 Tax=Coronaviridae TaxID=11118 RepID=A0A0A7UZR7_9BETC
+-----------CEIEQWLNDpQVPSPISWERKTFSNCNFNMSSLLSKVRATSFSCNNIDASKIYDMCFGSITIDKFAIPNSRKVDLQFGSSGYIQNYNYRLDQSATSCQLYYGIPAnNVTVTKKNPSGWN------------------------------------------------------------------------------------------------------
+>UniRef90_Q0ZME7/326-446 [subseq from] Spike glycoprotein n=57 Tax=Viruses TaxID=10239 RepID=SPIKE_CVHN5
+----------DCDIDNWLNNvSVPSPLNWERRIFSNCNFNLSTLLRLVHVDSFSCNNLDKSKIFGSCFNSITVDKFAIPNRRRDDLQLGSSGFLQSSNYKIDISSSSCQLYYSLPlVNVTINNFNPSSWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_A0A6B9CZC3/331-451 [subseq from] S protein (Fragment) n=1 Tax=Bovine coronavirus TaxID=11128 RepID=A0A6B9CZC3_9BETC
+-----------CNIEAWLNDkSVPSPLNWERKTFSNCNFNMSSLMSLIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNRR----------------------------------------------------------------------------------------------------
+>UniRef90_Q8BB25/331-462 [subseq from] Spike glycoprotein n=13 Tax=Porcine hemagglutinating encephalomyelitis virus TaxID=42005 RepID=SPIKE_CVP67
+-----------CDIEAWLNSkTVSSPLNWERKIFSNCNFNMGRLMSFIQADSFGCNNIDASRLYGMCFGSITIDKFAIPNSRKVDLQVGKSGYLQSFNYKIDTAVSSCQLYYSLPaANVSVTHYNPSSWNRRyGFNNQSFGSR------------------------------------------------------------------------------------------
+>UniRef90_A0A6B9CYZ2/81-191 [subseq from] S protein (Fragment) n=4 Tax=Bovine coronavirus TaxID=11128 RepID=A0A6B9CYZ2_9BETC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNRR----------------------------------------------------------------------------------------------------
+>UniRef90_Q9DXA9/16-137 [subseq from] Spike protein (Fragment) n=5 Tax=Bovine coronavirus TaxID=11128 RepID=Q9DXA9_9BETC
+-----------CNIEAWLNDkSVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNRRF---------------------------------------------------------------------------------------------------
+>UniRef90_M1PF06/2-108 [subseq from] Spike glycoprotein (Fragment) n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=M1PF06_CVHOC
+----------------------PSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_Q8V436/245-305 [subseq from] Spike glycoprotein n=153 Tax=Embecovirus TaxID=2509481 RepID=SPIKE_CVBLU
+------------------------------------------------------YYVMP----LTCNSALTLEYWVTPLTSKQYLLAfNQDGVIfNAVDCKSDFmSEIKCKTLSIAPST------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q8V436/331-450 [subseq from] Spike glycoprotein n=153 Tax=Embecovirus TaxID=2509481 RepID=SPIKE_CVBLU
+-----------CNIEAWLNDkSVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_I4DEW6/353-476 [subseq from] Spike glycoprotein (Fragment) n=4 Tax=Human coronavirus OC43 TaxID=31631 RepID=I4DEW6_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNKrfGFIENSVFKPQP-----------------------------------------------------------------------------------------
+>UniRef90_A0A127ASY0/206-297 [subseq from] Spike glycoprotein (Fragment) n=12 Tax=Human coronavirus HKU1 TaxID=290028 RepID=A0A127ASY0_CVHK1
+----------DCDIDNWLNNvSVPSPLNWERRIFSNCNFNLSTLLRLVHVDSFSCNNLDKSKIFGSCFNSITVDKFAIPNRRRDDLQLGSSGFLQSSNYKID---------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q5MQD0/326-445 [subseq from] Spike glycoprotein n=67 Tax=Coronaviridae TaxID=11118 RepID=SPIKE_CVHN1
+----------DCDIDKWLNNfNVPSPLNWERKIFSNCNFNLSTLLRLVHTDSFSCNNFDESKIYGSCFKSIVLDKFAIPNSRRSDLQLGSSGFLQSSNYKIDTTSSSCQLYYSLPAiNVTINNYNPSSWN------------------------------------------------------------------------------------------------------
+>UniRef90_P15777/248-305 [subseq from] Spike glycoprotein n=45 Tax=root TaxID=1 RepID=SPIKE_CVBM
+-------------------------------------------------------------LPLTCSSAMTLEYWVTPLTSKQYLLAfNQDGVIfNAVDCKSDFmSEIKCKTLSIAPST------------------------------------------------------------------------------------------------------------------
+>UniRef90_P15777/331-451 [subseq from] Spike glycoprotein n=45 Tax=root TaxID=1 RepID=SPIKE_CVBM
+-----------CNIEAWLNDkSVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNRR----------------------------------------------------------------------------------------------------
+>UniRef90_UPI00211D161C/18-143 [subseq from] Spike protein S1,Spike protein S1 n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00211D161C
+-----------CPFGEVFNATRfASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGC-VIAWNSNNLDSKVGGNYNYLYRLFRKSNL---------------------------------------------------------------------------------------------
+>UniRef90_Q0QJJ2/334-453 [subseq from] Spike glycoprotein (Fragment) n=43 Tax=Betacoronavirus TaxID=694002 RepID=Q0QJJ2_9BETC
+----------NCNIEAWLNDKPvPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A8R4D0/331-463 [subseq from] Spike glycoprotein n=11 Tax=Coronaviridae TaxID=11118 RepID=A8R4D0_9BETC
+-----------CNMEDWLSApTVASPLNWERRTFSNCNFNMSSLMSFIQADSFSCSNIDAAKLYGMCFGSVTIDKFAIPNSRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYSLGAdNVTVTRSNPSAWNRRyGFNDTMFKPQP-----------------------------------------------------------------------------------------
+>UniRef90_Q0QJI8/347-456 [subseq from] Spike glycoprotein (Fragment) n=121 Tax=Human coronavirus OC43 TaxID=31631 RepID=Q0QJI8_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNK-----------------------------------------------------------------------------------------------------
+>UniRef90_P25191/248-305 [subseq from] Spike glycoprotein n=291 Tax=Embecovirus TaxID=2509481 RepID=SPIKE_CVBL9
+-------------------------------------------------------------LPLTCNSAMTLEYWVTPLTSKQYLLAfNQDGVIfNAVDCKSDFmSEIKCKTLSIAPST------------------------------------------------------------------------------------------------------------------
+>UniRef90_P25191/331-450 [subseq from] Spike glycoprotein n=291 Tax=Embecovirus TaxID=2509481 RepID=SPIKE_CVBL9
+-----------CNIEAWLNDkSVPSPLNWERKTFSNCNFNMSCLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_A0A3S6FJG2/354-462 [subseq from] Spike glycoprotein n=3 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A3S6FJG2_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3G3NGZ3/324-443 [subseq from] Spike glycoprotein n=2 Tax=Betacoronavirus sp. TaxID=1928434 RepID=A0A3G3NGZ3_9BETC
+-----------CEIEKWLNDkNVPSPLNWERKMFINCNFNLSSLLRYVQADSFSCNNMDASKVYGMCFSSILIDKFAIPNSRRVDLQLGNSGFLQSFNYKIDTTATSCQLYYSLPQnNVTVNNRNPSSWNK-----------------------------------------------------------------------------------------------------
+>UniRef90_A0A3S6FHK8/354-462 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A3S6FHK8_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGNLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_U3M7N4/353-461 [subseq from] Spike glycoprotein n=4 Tax=Human coronavirus OC43 TaxID=31631 RepID=U3M7N4_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNSRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A5B9MU27/354-462 [subseq from] Spike glycoprotein n=24 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A5B9MU27_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0K0L9B0/354-477 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A0K0L9B0_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPAaNVSVSRfdPSTWNKRFGFIENSVFKPQP-----------------------------------------------------------------------------------------
+>UniRef90_P11224/329-465 [subseq from] Spike glycoprotein n=21 Tax=root TaxID=1 RepID=SPIKE_CVMA5
+-----------CNIEEWLTArSVPSPLNWERKTFQNCNFNLSSLLRYVQAESLFCNNIDASKVYGRCFGSISVDKFAVPRSRQVDLQLGNSGFLQTANYKIDTAATSCQLHYTLPKnNVTINNHNPSSWNRRYGfnDAGVFGKNQHDV--------------------------------------------------------------------------------------
+>UniRef90_U3M6Y8/354-477 [subseq from] Spike glycoprotein n=2 Tax=Human coronavirus OC43 TaxID=31631 RepID=U3M6Y8_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNkrFGFIEDSAFVPQP-----------------------------------------------------------------------------------------
+>UniRef90_A0A2D1CLQ8/352-459 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A2D1CLQ8_CVHOC
+---------------------VPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2H4MXF2/331-450 [subseq from] Spike glycoprotein n=1 Tax=Rodent coronavirus TaxID=2050018 RepID=A0A2H4MXF2_9NIDO
+----------DCDIESWLNSPSvSAPINWERKVFTNCNFNMSSLMLSVHANSFTCHNIDASKVYGMCFDSIIIDKFAIPNSRRVDLQVGNSGFLQSSNYKIDTASTSCQLFYTIHkNNITVNNFNPSSWN------------------------------------------------------------------------------------------------------
+>UniRef90_Q9J3F1/329-465 [subseq from] Spike glycoprotein n=5 Tax=Murine hepatitis virus TaxID=11138 RepID=Q9J3F1_9BETC
+-----------CNIEEWLTArSVPSPLNWERKTFQNCNFNLSSLLRYVQAESLFCNNMDASKVYGRCFGSISVDKFAVPRSRQVDLQLGNSGFLQTANYKIDTAATSCQLHYTLPKnNVTINNHNPSSWNRRYGfnDAGVFGKNQHDV--------------------------------------------------------------------------------------
+>UniRef90_U3M7L6/354-462 [subseq from] Spike glycoprotein n=2 Tax=Human coronavirus OC43 TaxID=31631 RepID=U3M7L6_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRRVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_U3M7N6/354-462 [subseq from] Spike glycoprotein n=8 Tax=Betacoronavirus 1 TaxID=694003 RepID=U3M7N6_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_Q9IKD1/336-447 [subseq from] Spike glycoprotein n=20 Tax=Murine coronavirus TaxID=694005 RepID=SPIKE_CVRSD
+-----------------AANTVPSPLNWERKTFQNCNFNLSSLLRFVQAESLSCSNIDASKVYGMCFGSISIDKFAIPNSRRVDLQLGKSGLLQSFNYKIDTRATSCQLYySLAQDNVTVINHNPSSWN------------------------------------------------------------------------------------------------------
+>UniRef90_P11225/328-446 [subseq from] Spike glycoprotein n=7 Tax=Murine coronavirus TaxID=694005 RepID=SPIKE_CVMJH
+----------DCKIEEWLTAkSVPSPLNWERRTFQNCNFNLSSLLRYVQAESLSCNNIDASKVYGMCFGSVSVDKFAIPRSRQIDLQIGNSGFLQTANYKIDTAATSCQLYYSLPKNnVTINNYNPSSW-------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0K0KPB6/354-462 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A0K0KPB6_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFALPNRRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A858HQ66/324-444 [subseq from] Spike glycoprotein n=3 Tax=Coronaviridae sp. TaxID=1986198 RepID=A0A858HQ66_9NIDO
+-----------CNIEAWLNAkSVPAPLNWERRTFVNCNFNLTSLLQLVSAESLSCNNIDASRVYGTCFGSISIDKLEIPIIRPVDLQLGNSGFLQSFNYRIDTSVPSCQLYySLAQNNVTVNNHNPSSWNRR----------------------------------------------------------------------------------------------------
+>UniRef90_A0A891F0J0/354-462 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A891F0J0_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGHLQSKNYGIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A096XNH1/339-449 [subseq from] Spike glycoprotein n=5 Tax=Coronaviridae TaxID=11118 RepID=A0A096XNH1_9BETC
+--------------------SVPSPLNWERKTFQNCNFNLSSLLRFVQAESLSCSNIDASKVYGMCFGSISIDKFAIPNSRRGDLQLGNSGFLQSFNYRIDTRATSCQLYySLAQNNVTVNNHNPSSWNRR----------------------------------------------------------------------------------------------------
+>UniRef90_A0A0B4N6K3/354-461 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A0B4N6K3_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSIW-------------------------------------------------------------------------------------------------------
+>UniRef90_Q0QJJ1/345-453 [subseq from] Spike glycoprotein (Fragment) n=10 Tax=Coronaviridae TaxID=11118 RepID=Q0QJJ1_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDVAKIYGMGFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A096XNG8/336-443 [subseq from] Spike glycoprotein n=8 Tax=Coronaviridae TaxID=11118 RepID=A0A096XNG8_9BETC
+----------------------PSPLNWERKMFINCNFNLSSLLRYVQADSFSCNNMDASKVYGMCFSSILIDKFAIPNSRKVDLQLGNSGFLQSFNYKIDTTAISCQLYYSlHQSNVTVKNQNPSSWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_A0A0B4N6L4/354-462 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A0B4N6L4_CVHOC
+--------------------AVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNIIDAATSYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A7D4ZKZ8/1-98 [subseq from] Spike glycoprotein (Fragment) n=22 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A7D4ZKZ8_CVHOC
+--------------------------------FSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNK-----------------------------------------------------------------------------------------------------
+>UniRef90_B2BGZ3/31-99 [subseq from] Spike protein (Fragment) n=1 Tax=Human coronavirus HKU1 TaxID=290028 RepID=B2BGZ3_CVHK1
+----------DCDIDNWLNNvSVPSPFNWERRIFSNCNFNLSTLLRLVHVDSFSCNNLDKSKIFGSCFNSITVDKFAIP--------------------------------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0K0L9K1/354-462 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A0K0L9K1_CVHOC
+--------------------AVPSPLNWERKTILSCNFNMSSLMSFIRADSFTCNIIDAATSYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSSNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWN------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0P0HQR0/187-266 [subseq from] Spike protein (Fragment) n=7 Tax=Human coronavirus HKU1 TaxID=290028 RepID=A0A0P0HQR0_CVHK1
+----------DCDIDKWLNNfNVPSPLNWERKIFSNCNFNLSTLLRLVHTDSFSCNNFDESKIYGSCFKSIVLDKFAIPNSRRSDLQLAS---------------------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2Z4HFS2/355-436 [subseq from] Spike glycoprotein n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A2Z4HFS2_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNXXXLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNRRKVDLQLGNLGYLQSSNYRIDT--------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A127ATC3/220-277 [subseq from] Spike glycoprotein (Fragment) n=6 Tax=Human coronavirus OC43 TaxID=31631 RepID=A0A127ATC3_CVHOC
+--------------------SVPSPLNWERKTFSNCNFNMSSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIP--------------------------------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0G2T197/2-91 [subseq from] Spike protein (Fragment) n=7 Tax=Bovine coronavirus TaxID=11128 RepID=A0A0G2T197_9BETC
+----------------------------------------SSLMSFIQADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_A3EXJ0/354-443 [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU9-4 TaxID=424370 RepID=A3EXJ0_BCHK9
+---------ETCDIPYAALQTPPQPIAWRRYAVSKCGFDFEAVINRLPTFELKCFGVSPARLASMCYGKVTIDVFRINVTHLANLIAGVPDAFSKYNYA-----------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0020155685/3-127 [subseq from] Spike protein S1 n=10 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=UPI0020155685
+-----------CPFGEVFNAtTFPSVYAWERKRISNCVADYSVLYNSTSFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFTGC-VLAWNTRNIDATQTGNYNYK---YRSLRHGK-------------------------------------------------------------------------------------------
+>UniRef90_A0A7U3W1C7/315-407 [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS203 TaxID=2801851 RepID=A0A7U3W1C7_9BETC
+-----------CPFDKVFNATRfPNVYAWQRTKISDCIADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQIAPGETGVIADYNYKLPDD-------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q3I5J5/326-420 [subseq from] Spike glycoprotein n=38 Tax=Coronaviridae TaxID=11118 RepID=SPIKE_BCRP3
+----------RCPFDKVFNATRfPNVYAWERTKISDCVADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDF------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_R9QTA0/325-422 [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus Rp/Shaanxi2011 TaxID=1283332 RepID=R9QTA0_SARS
+----------RCPFDKVFNATRfPSVYAWERTKISDCVADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTGC---------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8F0ZU75/323-417 [subseq from] Spike glycoprotein n=1 Tax=Betacoronavirus sp. TaxID=1928434 RepID=A0A8F0ZU75_9BETC
+----------RCPFDKVFNASrFPSVYAWERTKISDCVADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGETGVIADYNYKLPDDF------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0021E349C3/18-141 [subseq from] Spike protein S1 n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0021E349C3
+-----------CPFGEVFNATKfPSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGC-VLAWNTRNIDATSTGNYNYKYRLFRKS-----------------------------------------------------------------------------------------------
+>UniRef90_A0A6B9XJT5/3-82 [subseq from] Spike glycoprotein (Fragment) n=7 Tax=Bovine coronavirus TaxID=11128 RepID=A0A6B9XJT5_9BETC
+--------------------------------------------------SFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATSCQLYYNLPaANVSVSRFNPSTWNR-----------------------------------------------------------------------------------------------------
+>UniRef90_UPI001CEE08AB/26-155 [subseq from] Spike protein S1 n=38 Tax=Betacoronavirus TaxID=694002 RepID=UPI001CEE08AB
+-------SSNLCPFGEVFNATRfASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGC-VIAWNSNNLDSKVGGNYNYLYRLFRKSNL---------------------------------------------------------------------------------------------
+>UniRef90_A0A0P0INJ4/328-424 [subseq from] Spike glycoprotein n=1 Tax=SARS-like coronavirus BatCoV/BB9904/BGR/2008 TaxID=1737344 RepID=A0A0P0INJ4_9BETC
+---------KLCPFDQVFNAsSFPSVYAWERVRITDCVANYAVLYnSSVSFSTFQCYGVSPTKLNDLCFSSVYADYFIVKGDDVRQIAPSQTGVIADYNYKLPDDF------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_U5WI05/324-447 [subseq from] Spike glycoprotein n=15 Tax=Coronaviridae TaxID=11118 RepID=U5WI05_SARS
+-----------CPFGEVFNAtTFPSVYAWERKRISNCVADYSVLYNSTSFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFTGC-VLAWNTRNIDATQTGNYNYK---YRSLRHG--------------------------------------------------------------------------------------------
+>UniRef90_A0A166ZND9/327-420 [subseq from] Spike protein (Fragment) n=1 Tax=Bat coronavirus TaxID=1508220 RepID=A0A166ZND9_9NIDO
+-----------CPFDRVFNASrFPSVYAWERTKISDCVADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDEF------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0U1WHI2/326-419 [subseq from] Spike glycoprotein n=2 Tax=Sarbecovirus TaxID=2509511 RepID=A0A0U1WHI2_SARS
+-----------CPFDRVFNASrFPSVYAWERTKISDCVADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDF------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0K1Z074/327-420 [subseq from] Spike glycoprotein n=9 Tax=Coronaviridae TaxID=11118 RepID=A0A0K1Z074_SARS
+-----------CPFDKVFNATRfPSVYAWERTKISDCVADYTVFYNSTSFSTFNCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDF------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0U1UYX4/322-412 [subseq from] Spike glycoprotein n=8 Tax=Coronaviridae TaxID=11118 RepID=A0A0U1UYX4_SARS
+-----------CPFDKVFNATRfPSVYAWERTKISDCVADYTVFYNSTSFSTFNCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLP---------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2R3SUW7/332-426 [subseq from] Spike glycoprotein n=4 Tax=Coronaviridae TaxID=11118 RepID=A0A2R3SUW7_SARS
+-----------CPFHKVFNATRfPSVYAWERTKISDCIADYTVFYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFT-----------------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0001793A49/12-116 [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=UPI0001793A49
+----------------------PSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGC-VLAWNTRNIDATSTGNYNYK------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00211D15FD/20-142 [subseq from] Spike glycoprotein n=2 Tax=Bat coronavirus RaTG13 TaxID=2709072 RepID=UPI00211D15FD
+-----------CPFGEVFNATTfASVYAWNRKRISNCVADYSVLYNSTSFSTFKCYGVSPTKLNDLCFTNVYADSFVITGDEVRQIAPGQTGKIADYNYKLPDDFTGC-VIAWNSKHIDAKEGGNFNYLYRLFRK------------------------------------------------------------------------------------------------
+>ERR687894_651192/56-89 [subseq from] ERR687894_651192
+------------------------------------------------------------------------------------------------------------------------------------TTDAEGKYAFYVKPGSYTVCEEQ-QAGWTQSYPTA---------------------------------------------------------------
+>SRR5665647_274186/14-55 [subseq from] SRR5665647_274186
+-----------------------------------------------------------------------------------------------------------------IVFIPLSKSGRYNWLYQCCS-VSLGRfSSRYQSPGGITGSISV---------------------------------------------------------------------------
+>SRR5665647_274186/155-197 [subseq from] SRR5665647_274186
+----------------------------------------------------------------------------------------------------------------YIVFIPLSKSGRYNWLYQCCS-VSLGRfSSRYQSPGGITGSISV---------------------------------------------------------------------------
+>SRR5665647_274186/226-268 [subseq from] SRR5665647_274186
+----------------------------------------------------------------------------------------------------------------YIVFIPLSKSGRYNWLYQCC-SVSLGRfSSRYQSPGGITGSISV---------------------------------------------------------------------------
+>SRR5665647_274186/509-552 [subseq from] SRR5665647_274186
+---------------------------------------------------------------------------------------------------------------QYIVFIPLSKSGRYNWLYQCCS-VSLGRfSSRYQSPGGITGSISV---------------------------------------------------------------------------
+>D4QFK1_9BETC/329-467 [subseq from] D4QFK1_9BETC
+----------DCKIEEWLTAkSVPSPLNWERRTFQNCNFNLSSLLRYVQAESLSCTNIDASKVYGMCFGSVSVDKFAIPRSRQIDLQIGNSGFLQTANYKIDTAVTSCQLYYSlSKNNVTINNHNPSSWNRRYGfnDAGVFGKKQHDVA-------------------------------------------------------------------------------------
+>SRR6266568_2326666/49-85 [subseq from] SRR6266568_2326666
+------------------------------------------------------------------------------------------------------SEPPDQILTVGLVNFGATGPNSYHWTGELWrHRTKFS--------------------------------------------------------------------------------------------
+>SRR6266568_2326666/106-142 [subseq from] SRR6266568_2326666
+------------------------------------------------------------------------------------------------------SEPPDQILTVGLANFGATGPNSHRWAGELrSHRTKFS--------------------------------------------------------------------------------------------
+>SRR6266568_2326666/149-184 [subseq from] SRR6266568_2326666
+------------------------------------------------------------------------------------------------------SEPPDQILTVGLANFGATGPNSHRWAGELrSHRTKF---------------------------------------------------------------------------------------------
+>SRR6266568_2326666/235-290 [subseq from] SRR6266568_2326666
+------------------------------------------------------------------------------------------------------SEPPDQILTVGLANFGATGPNSHRWAGELrSHRTKFSPLGWRTsEPPDQILTVGLA--------------------------------------------------------------------------
+>ERR687893_165085/430-461 [subseq from] ERR687893_165085
+--------------------------------------------------------------------------------------------------------------------------------------DAEGKYAFYVKPGSYTVCEEQ-QAGWTQSYPTA---------------------------------------------------------------
